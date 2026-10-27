@@ -1,0 +1,31 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 40px;
+}
+
+section{
+    background-color: #ffffff;
+    width: 400px;
+    margin: 20px auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #cccccc;
+}
+
+button{
+    padding: 10px 20px;
+    background-color: #0077ff;
+    border: none;
+    color: #ffffff;
+    cursor: pointer;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: #005bb5;
+}
+
+.ul{
+    text-align: left;
+}
